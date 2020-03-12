@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Smooth Stone Walls\Assemblies\Smooth Stone Walls.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Smooth Stone Walls\Source\Smooth Stone Walls\obj\Debug\Smooth Stone Walls.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Smooth Stone Walls\Source\Smooth Stone Walls\obj\Debug\Smooth Stone Walls.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Etched Stone Walls\Assemblies\Smooth Stone Walls.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Etched Stone Walls\Source\Smooth Stone Walls\obj\Debug\Smooth Stone Walls.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Etched Stone Walls\Source\Smooth Stone Walls\obj\Debug\Smooth Stone Walls.dll

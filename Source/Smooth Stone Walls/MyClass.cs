@@ -1,6 +1,5 @@
-﻿using Harmony;
+﻿using HarmonyLib;
 using RimWorld;
-using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -14,7 +13,7 @@ namespace RSSW_Code {
 	[StaticConstructorOnStartup]
 	internal static class RSSW_Initializer {
 		static RSSW_Initializer() {
-			HarmonyInstance harmony = HarmonyInstance.Create("net.rainbeau.rimworld.mod.smoothstone");
+			Harmony harmony = new Harmony("net.rainbeau.rimworld.mod.smoothstone");
 			harmony.PatchAll(Assembly.GetExecutingAssembly());
 			bool usingNPS = false;
 			if (ModsConfig.ActiveModsInLoadOrder.Any(mod => mod.Name.Contains("Nature's Pretty Sweet"))) {

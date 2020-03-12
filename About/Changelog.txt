@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------------
   Changelog for "Rainbeau's Etched Stone Walls"
 ---------------------------------------------------------------------------------
+- 2020-03-12
+    - Updated to 1.1
 
 - 12/05/2018
 	- Removed patch previously required for smoothing NPS's basalt.
